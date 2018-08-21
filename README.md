@@ -9,7 +9,7 @@ WebResume is a simple website.
 * [Contact](#contact)
 
 ## General info
-I decided to create this website to develop my knowledge on HTML5, CSS3, create a responsive website and learn about Bootstrap Framework
+I create this website to develop my knowledge on HTML5, CSS3, create a responsive website and learn about Bootstrap Framework
 
 ## Website
 Check this Web Portfolio here: https://pawellukaszewski.github.io/WebResume.github.io/
